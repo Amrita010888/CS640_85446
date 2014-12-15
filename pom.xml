@@ -42,8 +42,7 @@
 
 	<build>
 	<finalName>CS640_85446</finalName>
-		<plugins>
-		<plugin>
+	plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-dependency-plugin</artifactId>
             <version>2.3</version>
@@ -64,5 +63,4 @@
                 </execution>
             </executions>
         </plugin>
-        </plugins>
 </project>
